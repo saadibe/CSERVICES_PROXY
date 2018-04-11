@@ -1,0 +1,29 @@
+/target
+/.settings
+target/
+.settings/
+npm-debug.log
+build.log
+package-lock.json
+**/package-lock.json
+.project
+.classpath
+*.iml
+.idea/
+
+
+# IDEs and editors
+.idea/
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+.vscode
+.editorconfig
+
+# System Files
+.DS_Store
+Thumbs.db
+target/
